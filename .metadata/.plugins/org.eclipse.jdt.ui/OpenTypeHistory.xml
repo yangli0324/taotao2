@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=taotao-content-interface/src\/main\/java&lt;com.taotao.content.service{ContentService.java[ContentService" modifiers="513" timestamp="1505925684428"/>
+<typeInfo handle="=taotao-content-service/E:\/JDK\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;java.net(ContentHandlerFactory.class[ContentHandlerFactory" modifiers="1537" timestamp="1501675486000"/>
+<typeInfo handle="=taotao-content-service/E:\/JDK\/jdk1.7.0_80\/jre\/lib\/rt.jar&lt;org.xml.sax(ContentHandler.class[ContentHandler" modifiers="1537" timestamp="1501675486000"/>
+<typeInfo handle="=taotao-search-interface/src\/main\/java&lt;com.taotao.search.service{SearchService.java[SearchService" modifiers="513" timestamp="1506050067646"/>
+<typeInfo handle="=taotao-search-service/src\/main\/java&lt;com.taotao.search.mapper{SearchItemMapper.java[SearchItemMapper" modifiers="513" timestamp="1506222647517"/>
+<typeInfo handle="=taotao-sso-interface/src\/main\/java&lt;com.taotao.sso.service{UserLoginService.java[UserLoginService" modifiers="513" timestamp="1506870779262"/>
+</typeInfoHistroy>

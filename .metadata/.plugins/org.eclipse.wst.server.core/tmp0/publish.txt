@@ -1,0 +1,10 @@
+#Tomcat publish data
+#Fri Sep 29 00:12:14 CST 2017
+org.eclipse.jst.j2ee.server\:fastdfs_client=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\fastdfs_client-1.25.jar
+org.eclipse.jst.j2ee.server\:taotao-search-interface=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\taotao-search-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:E\:\\maven\\repository\\org\\springframework\\spring-web\\4.2.4.RELEASE\\spring-web-4.2.4.RELEASE.jar=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\spring-web-4.2.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:taotao-sso-interface=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\taotao-sso-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:taotao-common=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\taotao-common-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:taotao-manager-pojo=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\taotao-manager-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:taotao-content-interface=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web\\WEB-INF\\lib\\taotao-content-interface-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:taotao-sso-web=E\:\\tomcat\\apache-tomcat-7.0.57\\webapps\\taotao-sso-web

@@ -1,0 +1,16 @@
+1505979758158	Rename package 'com.taotao.search.service'
+1505984439986	Rename resource 'TbItemMapper.xml'
+1505984531201	Copy file
+1505991175345	Rename compilation unit 'SearchItemImpl.java'
+1505991913252	Rename type 'ItemMapper'
+1505993563186	Rename type 'searchItemImpl'
+1505993858997	Rename type 'SearchItemImpl'
+1506002657945	Rename resource 'ItemMapper.xml'
+1506012445824	Copy compilation unit
+1506012466851	Delete element
+1506012566268	Rename type 'SearchResult'
+1506051518695	Move compilation unit
+1506174143514	Rename resource 'appliactionContext-dao.xml'
+1506174149112	Rename resource 'appliactionContext-service.xml'
+1506174162405	Rename resource 'appliactionContext-solr.xml'
+1506174169637	Rename resource 'appliactionContext-trans.xml'
